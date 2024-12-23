@@ -1,7 +1,4 @@
-# GDG
-[ICPR 2024] Clustering-based Image-Text Graph Matching for Domain Generalization
-
-# Graph-based-DG
+# [ICPR 2024] Clustering-based Image-Text Graph Matching for Domain Generalization
 
 ## Set Environment
 ```shell
