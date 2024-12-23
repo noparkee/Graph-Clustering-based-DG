@@ -37,3 +37,5 @@ You can download the **CUB-DG** dataset at [here](https://github.com/mswzeus/GVR
 We modified the DomainBed repo to utilize natural language.   
 You have to download Domainbed dataset first.
 For more information, please see the original repo.
+
+To train the model on the domainbed, see `DomainBed/PACS.sh`. DomainBed/PACS.sh is a shell file to train the model on the PACS dataset.
